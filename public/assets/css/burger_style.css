@@ -1,20 +1,62 @@
+body{
+    background-image: url("burger.png");
+    background: red;
+    animation: mymove 2s infinite;
+    }
+    @keyframes mymove {
+    from {background-color: red;}
+    to {background-color: blue;}
+}
+
+h3{
+    color: yellowgreen; 
+    margin-top: 30px;
+}
+
+h5{
+    color: whitesmoke;
+}
+
+h2 {
+  text-align: center;
+  color: whitesmoke;
+}
+
+ul {
+  list-style-type:none;
+}
+
+#hamburger {
+   
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    height: 400px;
+    width: 400px;
+    margin-bottom: 30px;
+} 
+
 li {
-    padding: 5px;
-    margin: 5px;
-    background: #faebd7;
+    color:black;
+}
+
+.devoured {
+      color:grey; 
   }
   
-  .label {
+li {
     font-weight: bold;
+    color: black;
+    font-size: 20px;
   }
-  
-  .create-update-form {
-    padding: 5px;
-    margin: 5px;
-    background: aqua;
-  }
-  
+
   .form-group {
     margin-bottom: 5px;
   }
+
+h1{
+  padding-top: 20px;
+  text-align: center;
+  font-weight: 900;
+}
   
