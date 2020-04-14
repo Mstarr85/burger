@@ -1,3 +1,5 @@
+<img width="1440" alt="Screen Shot 2020-04-14 at 8 35 01 AM" src="https://user-images.githubusercontent.com/53281244/79225722-28b70d00-7e2b-11ea-8a7d-795201b9fe82.png">
+
 # Node Express Handlebars
 
 ### Overview
