@@ -20,19 +20,23 @@
 
  * Navigate to localhost:8080 in your browser
 
+                or
+                                        
+ * Click on the Heroku Deployed Link below
+ 
  * Enjoy the burger time app
 
-### Important
+## How It Works
 
-* Burger Time! is a restaurant app that lets users input the names of burgers they'd like to eat.
+ * When on the Burger page there will be an empty form to "Add a new burger" 
+ 
+ * After hitting submit the burger that the user typed in will be sent under "Burgers to devour!"
+ 
+ * Whenever a user submits a burger's name, the app will display the burger on the left side of the page under "Burgers to        devour"  That is where the burgers are waiting to be devoured
 
-* Whenever a user submits a burger's name, your app will display the burger on the left side of the page -- waiting to be devoured.
+ * Each burger in the waiting area has a "Devour it!" button. When the user clicks it, the burger will move to the right          side of the page under "Devoured burgers"
 
-* Each burger in the waiting area also has a `Devour it!` button. When the user clicks it, the burger will move to the right side of the page.
-
-* The app will store every burger in a database, whether devoured or not.
-
-## Instructions
+ * The app will store every burger in a database, whether devoured or not.
 
 #### App Setup
 
