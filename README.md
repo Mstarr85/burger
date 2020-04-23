@@ -1,13 +1,13 @@
 <img width="1440" alt="Screen Shot 2020-04-14 at 8 35 01 AM" src="https://user-images.githubusercontent.com/53281244/79225722-28b70d00-7e2b-11ea-8a7d-795201b9fe82.png">
 
-# Node Express Handlebars
+# Burger
 
-### Overview
+## Description 
 
-Burger logger with MySQL, Node, Express, Handlebars and an ORM.
-### Read This
+  * A restaurant app that lets user input the names of burgers they'd like to eat 
 
-When trying to connect remotely to your Heroku database on an open network such as a coffee shop, library, or even your University WiFi, it will be blocked. If you are experiencing a Heroku connection error, this could be why.
+
+
 
 ### Important
 
@@ -39,3 +39,4 @@ When trying to connect remotely to your Heroku database on an open network such 
 
 https://frozen-brook-07158.herokuapp.com/
 
+MySQL, Node, Express, Handlebars ORM, Heroku
