@@ -4,10 +4,23 @@
 
 ## Description 
 
-  * A restaurant app that lets user input the names of burgers they'd like to eat 
+ * A restaurant app that lets user input the names of burgers they'd like to eat 
 
+## Installation Instructions
 
+ * Clone repo to your pc
 
+ * Navigate to burger folder in Terminal or Command prompt
+
+ * Run "npm i"
+ 
+ * Install dependencies
+
+ * Copy and run Schema.sql and Seeds.sql files into database management system UI of your choice (MYSQL)
+
+ * Navigate to localhost:8080 in your browser
+
+ * Enjoy the burger time app
 
 ### Important
 
@@ -23,17 +36,7 @@
 
 #### App Setup
 
-1. Clone repo to your pc.
 
-2. Navigate to burger folder in terminal.
-
-3. Run "npm i".
-
-4. Copy and run schema.sql and seeds.sql files into database management system UI of your choice (MYSQL).
-
-5. Navigate to localhost:8080 in your browser.
-
-6. Enjoy the burger time app.
 
 # Or you can just click the link to the deployed app on Heroku #
 
